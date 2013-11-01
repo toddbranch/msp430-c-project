@@ -1,5 +1,2 @@
 *.swp
 main.elf
-script.gdb
-.gdbinit
-Makefile
